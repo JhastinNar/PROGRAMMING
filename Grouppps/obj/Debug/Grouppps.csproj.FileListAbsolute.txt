@@ -1,0 +1,14 @@
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\bin\Debug\Grouppps.exe.config
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\bin\Debug\Grouppps.exe
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\bin\Debug\Grouppps.pdb
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\bin\Debug\Guna.UI2.dll
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\bin\Debug\Newtonsoft.Json.dll
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\bin\Debug\Newtonsoft.Json.xml
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.csproj.AssemblyReference.cache
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.Form1.resources
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.Properties.Resources.resources
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.csproj.GenerateResource.cache
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.csproj.CoreCompileInputs.cache
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.csproj.Up2Date
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.exe
+D:\Automotive Telling Machine\123sample\Grouppps\Grouppps\obj\Debug\Grouppps.pdb
